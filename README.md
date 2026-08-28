@@ -3,7 +3,7 @@
 **Course Code / Subject:** [NTC-PC14] Software Engineering<br>
 **Student Name:** Patrick Jay M. Canlas<br>
 **Date:** August 26, 2026 | **Section:** 3.5 BSIT<br>
-**GitHub Repository URL:** 
+**GitHub Repository URL:** https://github.com/P-Canlas/sdlc-foundations-lab
 
 ---
 
@@ -54,7 +54,7 @@
 *Which primary or hybrid framework (e.g., Scrum, Waterfall, or Spiral) do you recommend for this fintech regulatory project? Explain your choice in 2–3 sentences.*
 
 **Answer:**
-> Because a peer-to-peer payment feature requires time for government approval, I recommend using the Scrum framework for this project. This approach allows the team to rapidly develop and thoroughly test the feature in iterations, ensuring it is fully prepared for deployment the moment regulatory clearance is granted.
+> Since the peer-to-peer payment feature requires time for approval, i recommend using the Scrum framework for this project. This approach allows the team to rapidly develop and thoroughly test the feature in iterations, ensuring it is fully prepared for deployment the moment regulatory clearance is granted.
 
 
 ### Scenario B: DevOps & CI/CD Pipeline Breakdown
