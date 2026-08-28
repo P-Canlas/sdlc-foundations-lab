@@ -90,3 +90,11 @@
 *Explain how utilizing Feature Branches and a Develop branch prevents two developers from overwriting each other's code on Main. (2 to 3 sentences)*
 
 **Answer:**
+Using feature branches allows each developer to work independently, without interfering with anyone else's progress. When their work is finished, they may combine it into a shared 'develop' branch, where any overlapping code conflicts are identified and safely resolved, ensuring that the 'main' production branch remains completely stable and free of unverified code.
+
+---
+
+## FINAL SUBMISSION CHECKLIST
+- [✅] Part 1 checklist completely verified.
+- [✅] All scenario questions answered clearly.
+- [✅] Repository set to Public for grading access.
