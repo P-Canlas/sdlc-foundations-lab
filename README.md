@@ -47,14 +47,14 @@
 
 | Criteria | Waterfall | Agile (Scrum) |
 | :--- | :--- | :--- |
-| **Adaptability & Time-to-Market** | Releasing the payment feature under Waterfall lacks adaptability and would take a significant amount of time, likely missing the strategic window to capture market share. | Using Agile (Scrum) makes deploying the feature much faster. It offers high adaptability, allowing the team to release at the right time and immediately respond to current market behavior. |
-| **Regulatory & Compliance Risk Handling** | Regulatory requirements are addressed comprehensively during development. The feature won't be deployed until everything is finished, ensuring full compliance with the government agency before release. | Achieving compliance with the government agency might disrupt continuous development cycles. It introduces the risk of deploying iterations of the feature before obtaining full official approval. |
+| **Adaptability & Time-to-Market** | It would be difficult and time-consuming to release the payment feature under Waterfall, and it would probably miss the strategic window to gain market share. | The feature can be deployed much quicker when Agile (Scrum) is used. Because of its high degree of adaptability, the team can release at the appropriate time and react quickly to the state of the market. |
+| **Regulatory & Compliance Risk Handling** |Regulatory requirements are fully addressed during development. The feature will not be deployed until everything is complete, ensuring full compliance with the government agency before release. | Continuous development cycles may be disrupted in order to comply with the government agency. It raises the possibility of releasing versions of the feature before receiving complete official approval. |
 
 #### 2. Framework Recommendation & Justification
 *Which primary or hybrid framework (e.g., Scrum, Waterfall, or Spiral) do you recommend for this fintech regulatory project? Explain your choice in 2–3 sentences.*
 
 **Answer:**
-> Since the peer-to-peer payment feature requires time for approval, i recommend using the Scrum framework for this project. This approach allows the team to rapidly develop and thoroughly test the feature in iterations, ensuring it is fully prepared for deployment the moment regulatory clearance is granted.
+> Since the peer-to-peer payment feature requires time for approval, i recommend using the Scrum framework for this project. This method enables the team to quickly develop and thoroughly test the feature in iterations, guaranteeing that it is ready for deployment as soon as regulatory clearance is received.
 
 
 ### Scenario B: DevOps & CI/CD Pipeline Breakdown
@@ -68,7 +68,7 @@
 *Identify where the communication and process breakdown occurred between Dev and Ops.*
 
 **Answer:**
-> The breakdown occurred because the team relied on doing a manual testing on individual developer laptops rather than using a standardized, automated staging environment. This created a gap between development and operations where the merged code was never properly verified in a production-like setting before deployment.
+> Instead of using a standardized, automated staging environment, the team relied on manual testing on individual developer laptops, which led to the breakdown. Because of this disconnect between development and operations, the combined code was never adequately tested in a production-like environment prior to deployment.
 
 #### 2. Pipeline Stage Identification
 *Fill in the missing stages of the continuous assembly line and circle/bold the stage that catches local testing bugs before production release:*
